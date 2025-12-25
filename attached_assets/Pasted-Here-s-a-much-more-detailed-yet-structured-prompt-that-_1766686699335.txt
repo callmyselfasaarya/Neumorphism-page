@@ -1,0 +1,72 @@
+Here’s a **much more detailed yet structured prompt** that still stays **focused and clean**, but adds **creative neumorphic components** without turning the app into a complex system. You can paste this directly into an AI design / code generator.
+
+---
+
+### **Detailed Prompt: Neumorphic Task Planner Management Website**
+
+> Create a **Task Planner Management Website** with a **modern neumorphism (soft UI) design style** that feels tactile, calm, and intuitive.
+>
+> ### **Design Language**
+>
+> * Use a **light neutral background** (soft gray, beige, or pastel tone).
+> * Apply **neumorphic shadows** (dual light and dark shadows) to create a soft raised and inset effect.
+> * All elements should have **rounded corners**, smooth edges, and subtle depth.
+> * Use **minimal color accents** (pastel blue, mint, lavender) only for interactive states.
+> * Include **micro-animations** for hover, press, and toggle interactions.
+>
+> ### **Layout & Structure**
+>
+> * Centered layout with a **single main container card** floating above the background.
+> * Inside the container:
+>
+>   * A **top header section** with the app name and a short tagline.
+>   * A **date indicator** showing today’s date in a soft inset pill.
+>   * A **progress indicator** (circular or linear) showing completed tasks.
+>
+> ### **Task Input Section**
+>
+> * Neumorphic **inset input field** for entering new tasks.
+> * A **soft raised “Add Task” button** with gentle press animation.
+> * Optional **priority selector** using small neumorphic pill buttons (Low / Medium / High).
+>
+> ### **Task List Section**
+>
+> * Display tasks as **individual neumorphic cards**.
+> * Each task card should include:
+>
+>   * Task title text
+>   * Completion toggle (neumorphic switch or checkbox)
+>   * Priority indicator using a subtle colored dot
+>   * Delete button represented by a soft icon button
+> * Completed tasks should appear **slightly inset** with reduced opacity.
+>
+> ### **Creative Neumorphic Components**
+>
+> * **Floating action button** with soft glow for quick task creation.
+> * **Drag-and-drop interaction** with gentle shadow change while dragging.
+> * **Filter pills** (All / Active / Completed) with pressed and raised states.
+> * **Soft tooltip** on hover for icons.
+>
+> ### **User Experience**
+>
+> * Smooth transitions between states (add, complete, delete).
+> * No page reloads; interactions feel instant and fluid.
+> * Minimal text, icon-driven controls, and clean spacing.
+>
+> ### **Constraints**
+>
+> * Single-page application only.
+> * No authentication, analytics, or complex settings.
+> * Focus on **task clarity, visual comfort, and neumorphic realism**.
+>
+> ### **Overall Goal**
+>
+> Build a visually pleasing, calming task planner that demonstrates **neumorphism done right**—simple, elegant, and functional without unnecessary complexity.
+
+---
+
+If you want, I can:
+
+* Tailor this prompt **specifically for React, Flutter Web, or plain HTML/CSS**
+* Rewrite it as a **UI/UX design brief**
+* Convert it into a **component-by-component development plan**
